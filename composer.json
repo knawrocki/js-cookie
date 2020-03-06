@@ -1,0 +1,13 @@
+{
+	"name"        : "knawrocki/js-cookie",
+	"description" : "A simple, lightweight JavaScript API for handling cookies",
+	"version"     : "3.0.0-beta.4",
+	"license"     : "MIT",
+	"authors": [
+		{
+	    "name" : "Klaus Hartl",
+	    "url": "git://github.com/js-cookie/js-cookie.git"
+		}
+	]
+
+}
