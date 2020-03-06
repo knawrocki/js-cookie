@@ -1,7 +1,7 @@
 {
 	"name"        : "knawrocki/js-cookie",
 	"description" : "A simple, lightweight JavaScript API for handling cookies",
-	"version"     : "v2.2.1",
+	"version"     : "v3.0.0-beta.4",
 	"license"     : "MIT",
 	"authors": [
 		{
